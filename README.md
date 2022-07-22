@@ -7,6 +7,8 @@ NOTE: Managment Summary and Daily Deposit files must be in .txt format, not PDF.
 
 Python 3.7 and Pandas must be installed. 
 
+Either navigate to the file in an IDE and run the script, or in a terminal window navigate to the folder and run 'python netsuite_formatter.py.
+
 ### How it works
 This script takes 2 files (Management Summary and Daily Deposit) to create the desired file. 
 NOTE: Below are the PDF views of the files for demonstration use only.
