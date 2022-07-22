@@ -13,7 +13,7 @@ Either navigate to the file in an IDE and run the script, or in a terminal windo
 This script takes 2 files (Management Summary and Daily Deposit) to create the desired file. 
 NOTE: Below are the PDF views of the files for demonstration use only and can be found in the sample_files_pdfs folder.
 
-From the management summary the ** highlighted values are used **: 
+From the management summary the **highlighted values are used**: 
 <img width="825" alt="Screen Shot 2022-07-22 at 4 30 02 PM" src="https://user-images.githubusercontent.com/10816901/180557423-eb90dea6-c2ea-4b0e-91aa-8af10238ca83.png">
 
 From the daily deposit: 
